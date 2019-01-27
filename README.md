@@ -1,2 +1,2 @@
 # 2D-Unity-Game
-Discovering Unity 
+Discovering Unity by creating a platform game
